@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BADAD TP 10</string>
+    <string name="tab_text_1">Fragment Tab 1</string>
+    <string name="tab_text_2">Fragment Tab 2</string>
+    <string name="tab_text_3">Fragment Tab 3</string>
+
+
+</resources>
